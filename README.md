@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johannes-xerxes-sz
 - 👀 I’m interested in high end programming
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on the things that I learn to help on
 - 📫 How to reach me johannes.dalogdog@supportzebra.com
 
 <!---
