@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johannes-xerxes-sz
+- 👋 Hi, I’m Johannes
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on 
