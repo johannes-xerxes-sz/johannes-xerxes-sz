@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johannes
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently learning Web Software Engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
