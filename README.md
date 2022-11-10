@@ -1,8 +1,8 @@
-## Hello 🐟
+## Hello, I am Johannes
 
-- 🐧 
-- 🌱 
-- 💬 
+- 🤵 Johannes Dalogdog
+- 💻 Support Zebra
+- 💬 johannes.dalogdog@supportzebra.com
 
 
 ## Progress ✨
