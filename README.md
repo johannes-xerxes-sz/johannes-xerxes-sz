@@ -1,7 +1,7 @@
 ## Hello, I am Johannes
 
 - 🤵 Junior Web Programmer
-- 💻 Support Zebra
+- 💻 Backend Programming | Data Analytics | Python Developer
 - 💬 johannes.dalogdog@supportzebra.com
 
 
