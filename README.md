@@ -17,13 +17,13 @@ I am a proficient backend engineer with experience in JavaScript and Python prog
 ## Progress ✨
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Johannes's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr" alt="Johannes's GitHub Stats">
   </div>
   <div style="margin-right: 20px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=codeSTACKr" alt="SanskarJaiswal" />
   </div>
   <div style="margin: 0 auto;">
-    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=codeSTACKr" alt="SanskarJaiswal" />
   </div>
 </div>
 
