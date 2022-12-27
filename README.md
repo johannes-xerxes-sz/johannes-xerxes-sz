@@ -16,7 +16,8 @@ Hi there! I am a backend software engineer with experience in JavaScript, Expres
 I am a proficient backend engineer with experience in JavaScript and Python programming. I am skilled in creating advanced programs and am always looking to improve my skills and become a master of programming. In my spare time, I enjoy relaxing activities. Currently, I am working on a client-based project
 
 ## 📊GitHub Stats :
-<div align="center">
+ <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
