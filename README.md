@@ -15,13 +15,14 @@ Hi there! I am a backend software engineer with experience in JavaScript, Expres
 I am a proficient backend engineer with experience in JavaScript and Python programming. I am skilled in creating advanced programs and am always looking to improve my skills and become a master of programming. In my spare time, I enjoy relaxing activities. Currently, I am working on a client-based project
 
 ## Progress ✨
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Johannes's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Johannes's GitHub Stats">
+  </div>
+  <div style="margin-right: 20px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
   </div>
   <div>
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=radical" alt="SanskarJaiswal" />
+  </div>
 </div>
-
-
-
