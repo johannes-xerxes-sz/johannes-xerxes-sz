@@ -19,7 +19,6 @@ I am a proficient backend engineer with experience in JavaScript and Python prog
 
 ## 📊GitHub Stats :
 
-![[Johannes's github stats(https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)]
-![](https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Johannes's github stats](https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Johannes Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
