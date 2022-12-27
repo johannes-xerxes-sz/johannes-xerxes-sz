@@ -1,6 +1,6 @@
 ## Hello, I am Johannes
 
-Hi there! I am a backend software engineer with experience in JavaScript, Express.js, Node.js, MongoDB and more! I recently completed the Hanawilo bootcamp for backend development and am a certified core level data analyst. In my free time, I enjoy volunteering and trying new things. Feel free to use my projects or connect with me.
+Hi there! I am a backend software engineer with experience in JavaScript, Express.js, Node.js, MongoDB and more! I am on Hanawilo bootcamp for backend development and am a certified core level data analyst. In my free time, I enjoy volunteering and trying new things. Feel free to use my projects or connect with me.
 
 
 ## Progress ✨
