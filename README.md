@@ -1,7 +1,14 @@
 <h1 align="center">
-## Hello, I am Johannes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img align="left" src="https://raw.githubusercontent.com/johannes-xerxes-sz/johannes-xerxes-sz/main/banner.png" alt="Photo" width="320" />
+Hi, I'm Johannes Dalogdog!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://gpvc.arturio.dev/I-am-johannes-xerxes-sz" alt="Profile views" align='right'/> <a href="https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/"> </a> 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <hr>
+
 
 ```
 I-am-johannes-xerxes-sz
@@ -15,7 +22,7 @@ I-am-johannes-xerxes-sz
 🚩 Interested in Full Stack like MERN
 🎵 Love metal, lofi, jazz and soft music
 ```
-<hr>
+</hr>
  
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/"> </a> 
 <!--
