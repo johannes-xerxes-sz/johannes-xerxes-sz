@@ -14,18 +14,7 @@ Hi there! I am a backend software engineer with experience in JavaScript, Expres
 
 I am a proficient backend engineer with experience in JavaScript and Python programming. I am skilled in creating advanced programs and am always looking to improve my skills and become a master of programming. In my spare time, I enjoy relaxing activities. Currently, I am working on a client-based project
 
-## Progress ✨
-
-  <div align="center"> 
-     <a href="">
-           <img align="center"  src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr&line_height=40" alt="Johannes's GitHub Stats">
-     </a>
-    <a href="">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=codeSTACKr&line_height=40" alt="JohannesDalogdog" />
-  </a>
-</div>
-  <div align="center"> 
-    <a href="">
-      <img alt= "stats card" height="270px" width="400" align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=codeSTACKr&line_height=40" alt="JohannesDalogdog" />
-  </a>
-</div>
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
