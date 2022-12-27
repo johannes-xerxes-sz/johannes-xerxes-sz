@@ -18,14 +18,14 @@ I am a proficient backend engineer with experience in JavaScript and Python prog
 
   <div align="center"> 
      <a href="">
-           <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr" alt="Johannes's GitHub Stats">
+           <img align="center"  src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr&line_height=40" alt="Johannes's GitHub Stats">
      </a>
     <a href="">
-    <img alt= "stats card" height="270px" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=codeSTACKr" alt="JohannesDalogdog" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johannes-xerxes-sz&count_private=true&theme=codeSTACKr&line_height=40" alt="JohannesDalogdog" />
   </a>
 </div>
   <div align="center"> 
     <a href="">
-      <img alt= "stats card" height="270px" width="400" align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=codeSTACKr" alt="JohannesDalogdog" />
+      <img alt= "stats card" height="270px" width="400" align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&count_private=true&theme=codeSTACKr&line_height=40" alt="JohannesDalogdog" />
   </a>
 </div>
