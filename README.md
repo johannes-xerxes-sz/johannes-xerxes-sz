@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi, I'm Johannes Dalogdog!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/I-am-johannes-xerxes-sz" alt="Profile views" align='right'/> <a href="https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/"> </a> 
 <br/>
 
 <p align="center">
@@ -9,26 +8,10 @@ Hi, I'm Johannes Dalogdog!
 </p>
 <hr>
 
-
-```
-I-am-johannes-xerxes-sz
--------------------------
-💻 I am a Junior Backend Engineer at Support Zebra.
-📚 I have a Bachelors in Information Technology from the Xavier University - Ateneo de Cagayan.
-📝 I have a strong interest in Data analytics and Artificial Intelligence.
-🔭 Currently a certified core level Data Analyst.
-🌱 Learning about Advance Javascript, Data fundamentals ,Machine Learning and AI.
-🌟 Main languages: JavaScript, Python.
-🚩 Interested in Full Stack like MERN
-🎵 Love metal, lofi, jazz and soft music
-```
 </hr>
- 
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/"> </a> 
-<!--
 <br/>
 ![](https://raw.githubusercontent.com/johannes-xerxes-sz/johannes-xerxes-sz/main/banner.png)
--->
+
 
 Hi there! I am a backend software engineer with experience in JavaScript, Express.js, Node.js, MongoDB and more! I am on Hanawilo bootcamp for backend development and am a certified core level data analyst. In my free time, I enjoy volunteering and trying new things. Feel free to use my projects or connect with me.
 
