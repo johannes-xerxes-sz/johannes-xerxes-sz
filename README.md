@@ -18,7 +18,13 @@ Hi there! I am a backend software engineer with experience in JavaScript, Expres
 I am a proficient backend engineer with experience in JavaScript programming. I am skilled in creating advanced programs and am always looking to improve my skills and become a master of programming. In my spare time, I enjoy relaxing activities. Currently, I am working on a client-based project.
 
 
-<p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=codeSTACKr"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&layout=compact&hide=HTML&langs_count=10&theme=codeSTACKr"/>
-</p>
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/darylsimene">
+    <img width=450 height=170 align="center" alt="darylsimene" src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/darylsimene">
+    <img align="center" alt="darylsimene" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+<div>
