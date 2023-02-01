@@ -18,11 +18,11 @@ I am a proficient backend engineer with experience in JavaScript programming. I 
 
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/darylsimene">
-    <img width=450 height=170 align="center" alt="darylsimene" src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/johannes-xerxes-sz">
+    <img width=450 height=170 align="center" alt="johannes-xerxes-sz" src="https://github-readme-stats.vercel.app/api?username=johannes-xerxes-sz&theme=codeSTACKr&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/darylsimene">
-    <img align="center" alt="darylsimene" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/johannes-xerxes-sz">
+    <img align="center" alt="johannes-xerxes-sz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
