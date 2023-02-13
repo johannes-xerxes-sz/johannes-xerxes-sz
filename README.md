@@ -23,7 +23,7 @@ I am a proficient backend engineer with experience in JavaScript programming. I 
   </a>
   <a href="https://github.com/johannes-xerxes-sz">
     <img align="center" alt="johannes-xerxes-sz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannes-xerxes-sz&theme=codeSTACKr&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+  </a> 
 </div>
 
 <div>
