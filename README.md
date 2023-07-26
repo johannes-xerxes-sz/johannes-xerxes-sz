@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Johannes Dalogdog!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <div align="center">
 
-![](https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/blob/main/banner.png)
+![](https://github.com/johannes-xerxes-sz/johannes-xerxes-sz/blob/main/banner-1.png)
  </div>
 
 
