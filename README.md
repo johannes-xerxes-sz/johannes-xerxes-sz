@@ -9,7 +9,7 @@ Hi there! I am a backend software engineer with experience in JavaScript, Expres
 
 <div align="left">
     <a href="https://www.linkedin.com/in/johannes-xerxes-dalogdog"><img src="https://img.shields.io/badge/Connect-Johannes Xerxes Dalogdog-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:johannes.dalogdog@supportzebra.com"><img src="https://img.shields.io/badge/Email-johannes.dalogdog%40supportzebra.com-orange?style=for-the-badge&logo=Email" alt="Email" /></a>
+    <a href="mailto:johannes.xerxes13@gmail.com"><img src="https://img.shields.io/badge/Email-johannes.xerxes13%40gmail.com-orange?style=for-the-badge&logo=Email" alt="Email" /></a>
 </div>
 
 ## About myself :sunglasses:
